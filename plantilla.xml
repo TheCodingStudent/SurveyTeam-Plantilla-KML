@@ -9,8 +9,9 @@
     <tr><td align="right"><font size="2" face="verdana" color="#000000">No. Solar : </font></td><td><font size="2" face="verdana" color="#555555">%solar%</font></td></tr>
     <tr><td align="right"><font size="2" face="verdana" color="#000000">No. Parcela : </font></td><td><font size="2" face="verdana" color="#555555">%Parcela%</font></td></tr>
         <tr><td align="right"><font size="2" face="verdana" color="#000000">Superficie: </font></td>
-        <td><font size="2" face="verdana" color="#555555">%Superficie en Has%</font></td>
-        <td><font size="2" face="verdana" color="#555555"> hectáreas</font></td></tr>
+        <td><font size="2" face="verdana" color="#555555">%Superficie en Has% hectáreas</font></td>
+        <!-- <td><font size="2" face="verdana" color="#555555">%Superficie en Has%</font></td> -->
+        <!-- <td><font size="2" face="verdana" color="#555555"> hectáreas</font></td></tr> -->
     <tr><td align="right"><font size="2" face="verdana" color="#000000">Propietario : </font></td><td><font size="2" face="verdana" color="#555555">%Propietario%</td></tr>
 </table>
 <table cellpadding="2" cellspacing="2" style="border:0px solid #0C6304" width="400px">
