@@ -1,21 +1,22 @@
-<table cellpadding="2" cellspacing="2" style="border:0px solid #0C6304" width="400px">
+<body style="background-color:#000000"></body>
+<table cellpadding="2" cellspacing="2" style="border:0px solid #0040ff" width="400px">
     <tr><td align="center" colspan="2"><img src="https://github.com/TheCodingStudent/SurveyTeam-Plantilla-KML/blob/main/logo.png?raw=true" width="260" height="35"></td></tr>
-    <tr><td align="center" colspan="2"><font size="2" face="verdana" color="#696969">Ing. Armando Chaparro</font></td></tr>
-    <tr><td align="center" colspan="2"><b><font size="2" face="verdana" color="#2B422A">Parcelas</font></b></td></tr>
+    <tr><td align="center" colspan="2"><font size="2" face="verdana" color="#ffffff">Ing. Armando Chaparro</font></td></tr>
+    <tr><td align="center" colspan="2"><b><font size="2" face="verdana" color="#007fff">Parcelas</font></b></td></tr>
 </table>
-<table cellpadding="2" cellspacing="2" style="border:1px solid #0C6304" width="400px">
-    <tr><td align="right"><font size="2" face="verdana" color="#000000">Ejido : </font></td><td><font size="2" face="verdana" color="#555555">%Ejido%</td></tr>
-    <tr><td align="right"><font size="2" face="verdana" color="#000000">Clave : </font></td><td><font size="2" face="verdana" color="#555555">%Clave%</td></tr>
-    <tr><td align="right"><font size="2" face="verdana" color="#000000">No. Solar : </font></td><td><font size="2" face="verdana" color="#555555">%solar%</font></td></tr>
-    <tr><td align="right"><font size="2" face="verdana" color="#000000">No. Parcela : </font></td><td><font size="2" face="verdana" color="#555555">%Parcela%</font></td></tr>
-        <tr><td align="right"><font size="2" face="verdana" color="#000000">Superficie: </font></td>
-        <td><font size="2" face="verdana" color="#555555">%Superficie en Has% hectáreas</font></td>
-        <!-- <td><font size="2" face="verdana" color="#555555">%Superficie en Has%</font></td> -->
-        <!-- <td><font size="2" face="verdana" color="#555555"> hectáreas</font></td></tr> -->
-    <tr><td align="right"><font size="2" face="verdana" color="#000000">Propietario : </font></td><td><font size="2" face="verdana" color="#555555">%Propietario%</td></tr>
+
+<table cellpadding="2" cellspacing="2" style="border:1px solid #004080" width="390px">
+    <tr><td align="right"><font size="2" face="verdana" color="#007fff">Ejido : </font></td><td><font size="2" face="verdana" color="#ffffff">BUCERIAS</td></tr>
+    <tr><td align="right"><font size="2" face="verdana" color="#007fff">Clave : </font></td><td><font size="2" face="verdana" color="#ffffff">0200000200000243000</td></tr>
+    <tr><td align="right"><font size="2" face="verdana" color="#007fff">No. Solar : </font></td><td><font size="2" face="verdana" color="#ffffff"></font></td></tr>
+    <tr><td align="right"><font size="2" face="verdana" color="#007fff">No. Parcela : </font></td><td><font size="2" face="verdana" color="#ffffff"></font></td></tr>
+    <tr><td align="right"><font size="2" face="verdana" color="#007fff">Superficie: </font></td><td><font size="2" face="verdana" color="#ffffff">1.489368 hectáreas</font></td>
+    <tr><td align="right"><font size="2" face="verdana" color="#007fff">Propietario : </font></td><td><font size="2" face="verdana" color="#ffffff">ROSA DELGADO BRISE?O</td></tr>
 </table>
-<table cellpadding="2" cellspacing="2" style="border:0px solid #0C6304" width="400px">
-    <tr><td align="center"><font size="2" face="verdana" color="#696969">Sistema de Información Geoespacial</font></b></td></tr>
-    <tr><td align="center"><font size="2" face="verdana" color="#696969">Cel. 6141036520</font></b></td></tr>
-    <tr><td align="center"><font size="2" face="verdana" color="#696969">Correo: surveyteam@live.com.mx</font></b></td></tr>
+
+<table cellpadding="2" cellspacing="2" style="border:0px solid #007fff" width="400px">
+    <tr><td align="center"><font size="2" face="verdana" color="#7f7f7f">Sistema de Información Geográfica</font></b></td></tr>
+    <tr><td align="center"><font size="2" face="verdana" color="#7f7f7f">Cel. 6141036520</font></b></td></tr>
+    <tr><td align="center"><font size="2" face="verdana" color="#7f7f7f">Correo: surveyteam@live.com.mx</font></b></td></tr>
+
 </table>
