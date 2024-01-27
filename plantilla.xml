@@ -1,6 +1,6 @@
 <body style="background-color:#000000"></body>
 <table cellpadding="2" cellspacing="2" style="border:0px solid #0040ff" width="300px">
-<tr><td align="center" colspan="2"><img src="https://github.com/TheCodingStudent/SurveyTeam-Plantilla-KML/blob/main/Logo%20Surveyteam.png?raw=true" width="260" height="60"></td></tr>
+<tr><td align="center" colspan="2"><img src="https://github.com/TheCodingStudent/SurveyTeam-Plantilla-KML/blob/main/Logo_Surveyteam.png?raw=true" width="260" height="60"></td></tr>
 <tr><td align="center" colspan="2"><b><font size="2" face="verdana" color="#007fff">Parcelas</font></b></td></tr>
 </table>
 
@@ -9,9 +9,9 @@
 <tr><td align="right"><font size="2" face="verdana" color="#007fff">Ejido : </font></td><td><font size="2" face="verdana" color="#ffffff">%Ejido%</td></tr>
 <tr><td align="right"><font size="2" face="verdana" color="#007fff">Clave : </font></td><td><font size="2" face="verdana" color="#ffffff">%Clave2%</td></tr>
 <tr><td align="right"><font size="2" face="verdana" color="#007fff">Municipio : </font></td><td><font size="2" face="verdana" color="#ffffff">%Municipio%</td></tr>
-<tr><td align="right"><font size="2" face="verdana" color="#007fff">No. Solar : </font></td><td><font size="2" face="verdana" color="#ffffff">%SOLAR%</font></td></tr>
-<tr><td align="right"><font size="2" face="verdana" color="#007fff">No. Parcela : </font></td><td><font size="2" face="verdana" color="#ffffff">%PARCELA%</font></td></tr>
-<tr><td align="right"><font size="2" face="verdana" color="#007fff">Superficie: </font></td><td><font size="2" face="verdana" color="#ffffff">%Superficie% Hectáreas</font></td>
+<tr><td align="right"><font size="2" face="verdana" color="#007fff">No. Solar : </font></td><td><font size="2" face="verdana" color="#ffffff">%Solar%</font></td></tr>
+<tr><td align="right"><font size="2" face="verdana" color="#007fff">No. Parcela : </font></td><td><font size="2" face="verdana" color="#ffffff">%Parcela%</font></td></tr>
+<tr><td align="right"><font size="2" face="verdana" color="#007fff">Superficie : </font></td><td><font size="2" face="verdana" color="#ffffff">%Superficie% Hectáreas</font></td></tr>
 <tr><td align="right"><font size="2" face="verdana" color="#007fff">Propietario : </font></td><td><font size="2" face="verdana" color="#ffffff">%Propietario%</td></tr>
 </table>
 
