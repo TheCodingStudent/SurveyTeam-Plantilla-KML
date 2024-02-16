@@ -1,0 +1,22 @@
+<body style="background-color:#535a4a">
+    <table cellpadding="2" cellspacing="2" style="border:0px solid #0040ff" width="300px">
+        <tr><td align="center" colspan="2"><img src="https://github.com/TheCodingStudent/SurveyTeam-Plantilla-KML/blob/main/Logo_Surveyteam.png?raw=true" width="260" height="60"></img></td></tr>
+        <tr><td align="center" colspan="2"><b><font size="2" face="verdana" color="#edde9b">Parcelas</font></b></td></tr>
+    </table>
+    <table cellpadding="2" style="background-color: #ffffff border:1px solid #edde9b" cellspacing="2" width="290px">
+        <tr><td align="right"><font size="2" face="verdana" color="#ffffff">Zona : </font></td><td><font size="2" face="verdana" color="#000000">%Zona%</font></td></tr>
+        <tr><td align="right"><font size="2" face="verdana" color="#ffffff">Ejido : </font></td><td><font size="2" face="verdana" color="#000000">%Ejido%</font></td></tr>
+        <tr><td align="right"><font size="2" face="verdana" color="#ffffff">Clave : </font></td><td><font size="2" face="verdana" color="#000000">%Clave2%</font></td></tr>
+        <tr><td align="right"><font size="2" face="verdana" color="#ffffff">Municipio : </font></td><td><font size="2" face="verdana" color="#000000">%Municipio%</font></td></tr>
+        <tr><td align="right"><font size="2" face="verdana" color="#ffffff">No. Solar : </font></td><td><font size="2" face="verdana" color="#000000">%Solar%</font></td></tr>
+        <tr><td align="right"><font size="2" face="verdana" color="#ffffff">No. Parcela : </font></td><td><font size="2" face="verdana" color="#000000">%Parcela%</font></td></tr>
+        <tr><td align="right"><font size="2" face="verdana" color="#ffffff">Superficie : </font></td><td><font size="2" face="verdana" color="#000000">%Superficie% Hectáreas</font></td></tr>
+        <tr><td align="right"><font size="2" face="verdana" color="#ffffff">Propietario : </font></td><td><font size="2" face="verdana" color="#000000">%Planeta%</font></td></tr>
+        <tr><td align="right"><font size="2" face="verdana" color="#ffffff">Planeta : </font></td><td><font size="2" face="verdana" color="#000000">%Propietario%</font></td></tr>
+    </table>
+    <table cellpadding="2" cellspacing="2" style="border:0px solid #007fff" width="300px">
+    <tr><td align="center"><font size="2" face="verdana" color="#535a4a">Cel. 6141036520</font></td></tr>
+    <tr><td align="center"><font size="2" face="verdana" color="#535a4a">Correo: surveyteam@live.com.mx</font></td></tr>
+    <tr><td align="center"><font size="2" face="verdana" color="#535a4a">Sistema de Información Geográfica</font></td></tr>
+    </table>
+</body>

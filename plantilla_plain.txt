@@ -1,0 +1,12 @@
+<body style="background-color:#000000"></body>
+<table cellpadding="2" cellspacing="2" style="border:0px solid #0040ff" width="300px">
+<tr><td align="center" colspan="2"><img src="https://github.com/TheCodingStudent/SurveyTeam-Plantilla-KML/blob/main/Logo_Surveyteam.png?raw=true" width="260" height="60"></td></tr>
+<tr><td align="center" colspan="2"><b><font size="2" face="verdana" color="#007fff">##TITULO##</font></b></td></tr>
+</table>
+<table cellpadding="2" style="background-color: #ffffff" cellspacing="2" style="border:1px solid #004080" width="290px">
+##CONTENT##
+</table>
+<table cellpadding="2" cellspacing="2" style="border:0px solid #007fff" width="300px">
+<tr><td align="center"><font size="2" face="verdana" color="#7f7f7f">Cel. 6141036520</font></b></td></tr>
+<tr><td align="center"><font size="2" face="verdana" color="#7f7f7f">Correo: surveyteam@live.com.mx</font></b></td></tr>
+<tr><td align="center"><font 

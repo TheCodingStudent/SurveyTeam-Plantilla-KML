@@ -1,0 +1,1 @@
+'<tr><td align="right"><font size="2" face="verdana" color="#007fff">##NAME##: </font></td><td><font size="2" face="verdana" color="#000000">%##ATTRIBUTE##%</td></tr>'
